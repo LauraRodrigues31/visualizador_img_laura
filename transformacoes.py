@@ -1,9 +1,9 @@
 import cv2
 
-def aplicar_transformacao(image, transform, value=None):
+def aplicar_transformacao(image, transform, value=None): # função que aplica as transformações
     if image is None:
         return None
-
+# cria copia da img original para não mudar a original
     img = image.copy()
 
     if transform == "Rotação 90°":
