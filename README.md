@@ -2,6 +2,8 @@
 
 Este projeto é um visualizador interativo de imagens que permite aplicar filtros e transformações diretamente pelo navegador, utilizando a biblioteca **Streamlit** para a interface e **OpenCV** para o processamento de imagem.
 
+Video com explicação: https://drive.google.com/file/d/14IDYmFc_S8NIlKVAwiLZOCvFB0YLAwFB/view?usp=sharing 
+
 ## Funcionalidades
 
 - Carregamento de imagens (`.jpg`, `.png`, `.bmp`)
